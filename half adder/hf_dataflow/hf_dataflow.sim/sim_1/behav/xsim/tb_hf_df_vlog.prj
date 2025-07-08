@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../hf_dataflow.srcs/sources_1/new/hf_df.v" \
+"../../../../hf_dataflow.srcs/sim_1/new/tb_hf_df.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

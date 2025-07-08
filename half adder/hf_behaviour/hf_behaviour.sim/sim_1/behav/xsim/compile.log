@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_all/half adder/hf_behaviour/hf_behaviour.srcs/sources_1/new/hf_behav.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hf_behav
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_all/half adder/hf_behaviour/hf_behaviour.srcs/sim_1/new/tb_hf_behav.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_hf_behav
